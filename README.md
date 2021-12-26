@@ -6,4 +6,4 @@
 
 ### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-48/Infiniti-Scroll-Lorem-Blog-site/index.html
 
-### Codepen: 
+### Codepen: https://codepen.io/vladimirsaenko/pen/gOGXyQx
