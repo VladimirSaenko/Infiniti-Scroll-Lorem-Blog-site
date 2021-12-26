@@ -1,4 +1,4 @@
-# Infiniti-Scroll-Blog-site
+# Infiniti-Scroll-Lorem-Blog-site
 
 ### Бесконечный блог с фразами на латыни
 
