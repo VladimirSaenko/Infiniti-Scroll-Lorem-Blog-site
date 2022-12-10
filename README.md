@@ -13,3 +13,7 @@
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-41/Infiniti-Scroll-Lorem-Blog-site/index.html
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/gOGXyQx
+
+### P.S Не совсем бесконечный блог
+### P.S Not quite an endless blog 
+### P.S Non satis est sine fine blog
